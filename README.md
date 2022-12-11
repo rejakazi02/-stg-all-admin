@@ -1,1 +1,1 @@
-# -stg-all-admin
+# stg-all-admin
