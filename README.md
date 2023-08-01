@@ -1,1 +1,1 @@
-# stg-all-admin live github
+# stg-all-admin live from github
